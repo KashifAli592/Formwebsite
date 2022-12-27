@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+.fb {
+    background-color: rgb(39, 39, 173);
+    height: 70PX;
+}
+.fb h1{
+    border: 1px solid;
+    color: aliceblue;
+    font-size: 60PX;
+}
+.fbs {
+    margin-left: 50%;
+    margin-top: -47px;
+}
+.face {
+    margin-left: 68%;
+    margin-top: -18px;
+}
+.face button{
+    border-radius: 10%;
+    height: 20px;
+    width: 20%;
+    color: #fff;
+    background: rgb(166, 218, 89);
+    cursor: pointer;
+}
+.face a{
+    color: #fff;
+    margin-left: 15%;
+}
+.fbs button{
+    height: 20px;
+    width: 60px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.email {
+    margin-top: 5%;
+    margin-left: 50%;
+}
+.email input{
+    border-radius: 10%;
+    height: 23PX;
+}
+.email2 input{
+    margin-left: 50%;
+    border-radius: 10%;
+    height: 23PX;
+    width: 30.5%;
+}
+.birth {
+    margin-left: 50%;
+}
+.birth button{
+    background: rgb(39, 202, 24);
+    color: #fff;
+    height: 30px;
+    width: 200px;
+    border-radius: 40px;
+    cursor: pointer;
+}
